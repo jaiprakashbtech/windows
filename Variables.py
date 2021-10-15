@@ -6,3 +6,5 @@ print (y)
 print (x)
 print (z) 
 print (type(yi))
+a = "my name is jaiprakash"
+print(" -----> " + a)
